@@ -1,3 +1,5 @@
+https://keen-pika-7a45bc.netlify.app/
+
 # 동의보감 AI 도우미 (Korean Medicine Doctor)
 
 동의보감 AI 도우미는 한의학의 고전인 동의보감을 현대적으로 해석하고 이해하기 쉽게 설명해주는 대화형 웹 애플리케이션입니다.
